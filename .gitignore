@@ -1,0 +1,17 @@
+/.vscode
+
+#  git init
+# git add .
+# git commit -m 'init'
+# git remote add origin https://github.com/gawelechek/MetaLabs.git
+# git push origin master
+
+# подтянуть обновы в код:
+# git pull origin master
+
+
+# создание новой ветки:
+# git branch "название"
+
+# переключение на другую ветку:
+# git checkout 'название'
